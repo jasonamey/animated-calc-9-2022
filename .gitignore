@@ -1,0 +1,8 @@
+node_modules
+yarn.lock
+.DS_Store
+.firebase/
+.firebaserc
+dist/
+firebase.json
+
